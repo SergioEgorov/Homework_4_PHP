@@ -16,3 +16,4 @@ https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
 https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler, есть 
 ограничение по количеству символов/строк, в случае если превысить лимит, то 
 будет сгенерирован, в результате, пустой лист. -->
+
